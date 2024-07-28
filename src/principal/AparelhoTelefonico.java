@@ -5,4 +5,5 @@ public interface AparelhoTelefonico {
     void desligar();
     void atender();
     void rejeitar();
+
 }
